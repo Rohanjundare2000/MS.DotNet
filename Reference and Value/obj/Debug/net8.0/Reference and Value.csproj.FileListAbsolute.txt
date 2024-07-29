@@ -1,0 +1,14 @@
+D:\DotNet\Reference and Value\bin\Debug\net8.0\Reference and Value.exe
+D:\DotNet\Reference and Value\bin\Debug\net8.0\Reference and Value.deps.json
+D:\DotNet\Reference and Value\bin\Debug\net8.0\Reference and Value.runtimeconfig.json
+D:\DotNet\Reference and Value\bin\Debug\net8.0\Reference and Value.dll
+D:\DotNet\Reference and Value\bin\Debug\net8.0\Reference and Value.pdb
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.AssemblyInfoInputs.cache
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.AssemblyInfo.cs
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.csproj.CoreCompileInputs.cache
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.dll
+D:\DotNet\Reference and Value\obj\Debug\net8.0\refint\Reference and Value.dll
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.pdb
+D:\DotNet\Reference and Value\obj\Debug\net8.0\Reference and Value.genruntimeconfig.cache
+D:\DotNet\Reference and Value\obj\Debug\net8.0\ref\Reference and Value.dll

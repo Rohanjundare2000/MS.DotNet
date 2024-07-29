@@ -1,0 +1,14 @@
+D:\DotNet\Camparable\bin\Debug\net8.0\Camparable.exe
+D:\DotNet\Camparable\bin\Debug\net8.0\Camparable.deps.json
+D:\DotNet\Camparable\bin\Debug\net8.0\Camparable.runtimeconfig.json
+D:\DotNet\Camparable\bin\Debug\net8.0\Camparable.dll
+D:\DotNet\Camparable\bin\Debug\net8.0\Camparable.pdb
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.AssemblyInfoInputs.cache
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.AssemblyInfo.cs
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.csproj.CoreCompileInputs.cache
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.dll
+D:\DotNet\Camparable\obj\Debug\net8.0\refint\Camparable.dll
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.pdb
+D:\DotNet\Camparable\obj\Debug\net8.0\Camparable.genruntimeconfig.cache
+D:\DotNet\Camparable\obj\Debug\net8.0\ref\Camparable.dll

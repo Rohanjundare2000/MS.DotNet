@@ -1,0 +1,14 @@
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.AssemblyInfoInputs.cache
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.AssemblyInfo.cs
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.csproj.CoreCompileInputs.cache
+D:\DotNet\ConsoleApp1\Assignment no 2\bin\Debug\net8.0\Assignment no 2.exe
+D:\DotNet\ConsoleApp1\Assignment no 2\bin\Debug\net8.0\Assignment no 2.deps.json
+D:\DotNet\ConsoleApp1\Assignment no 2\bin\Debug\net8.0\Assignment no 2.runtimeconfig.json
+D:\DotNet\ConsoleApp1\Assignment no 2\bin\Debug\net8.0\Assignment no 2.dll
+D:\DotNet\ConsoleApp1\Assignment no 2\bin\Debug\net8.0\Assignment no 2.pdb
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.dll
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\refint\Assignment no 2.dll
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.pdb
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\Assignment no 2.genruntimeconfig.cache
+D:\DotNet\ConsoleApp1\Assignment no 2\obj\Debug\net8.0\ref\Assignment no 2.dll

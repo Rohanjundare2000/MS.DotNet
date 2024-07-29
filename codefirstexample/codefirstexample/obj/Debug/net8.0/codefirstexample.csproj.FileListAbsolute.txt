@@ -1,0 +1,8 @@
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.csproj.AssemblyReference.cache
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.AssemblyInfoInputs.cache
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.AssemblyInfo.cs
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.csproj.CoreCompileInputs.cache
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.RazorAssemblyInfo.cache
+D:\DotNet\codefirstexample\codefirstexample\obj\Debug\net8.0\codefirstexample.RazorAssemblyInfo.cs

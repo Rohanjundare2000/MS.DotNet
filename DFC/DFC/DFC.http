@@ -1,0 +1,6 @@
+@DFC_HostAddress = http://localhost:5223
+
+GET {{DFC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

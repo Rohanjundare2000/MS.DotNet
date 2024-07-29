@@ -1,0 +1,111 @@
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\testhost.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\testhost.exe
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Lab exam sdm.deps.json
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Lab exam sdm.runtimeconfig.json
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Lab exam sdm.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Lab exam sdm.pdb
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.csproj.AssemblyReference.cache
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.AssemblyInfoInputs.cache
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.AssemblyInfo.cs
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.csproj.CoreCompileInputs.cache
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam.07C2C24C.Up2Date
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\refint\Lab exam sdm.dll
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.pdb
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\Lab exam sdm.genruntimeconfig.cache
+D:\DotNet\Lab exam sdm\Lab exam sdm\obj\Debug\net8.0\ref\Lab exam sdm.dll

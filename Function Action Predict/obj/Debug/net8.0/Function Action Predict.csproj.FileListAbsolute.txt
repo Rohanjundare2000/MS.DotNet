@@ -1,0 +1,14 @@
+D:\DotNet\Function Action Predict\bin\Debug\net8.0\Function Action Predict.exe
+D:\DotNet\Function Action Predict\bin\Debug\net8.0\Function Action Predict.deps.json
+D:\DotNet\Function Action Predict\bin\Debug\net8.0\Function Action Predict.runtimeconfig.json
+D:\DotNet\Function Action Predict\bin\Debug\net8.0\Function Action Predict.dll
+D:\DotNet\Function Action Predict\bin\Debug\net8.0\Function Action Predict.pdb
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.AssemblyInfoInputs.cache
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.AssemblyInfo.cs
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.csproj.CoreCompileInputs.cache
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.dll
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\refint\Function Action Predict.dll
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.pdb
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\Function Action Predict.genruntimeconfig.cache
+D:\DotNet\Function Action Predict\obj\Debug\net8.0\ref\Function Action Predict.dll

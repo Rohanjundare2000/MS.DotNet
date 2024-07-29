@@ -1,0 +1,14 @@
+D:\DotNet\ConsoleApp3\virtual and override keyword\bin\Debug\net8.0\virtual and override keyword.exe
+D:\DotNet\ConsoleApp3\virtual and override keyword\bin\Debug\net8.0\virtual and override keyword.deps.json
+D:\DotNet\ConsoleApp3\virtual and override keyword\bin\Debug\net8.0\virtual and override keyword.runtimeconfig.json
+D:\DotNet\ConsoleApp3\virtual and override keyword\bin\Debug\net8.0\virtual and override keyword.dll
+D:\DotNet\ConsoleApp3\virtual and override keyword\bin\Debug\net8.0\virtual and override keyword.pdb
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.AssemblyInfoInputs.cache
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.AssemblyInfo.cs
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.csproj.CoreCompileInputs.cache
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.dll
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\refint\virtual and override keyword.dll
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.pdb
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\virtual and override keyword.genruntimeconfig.cache
+D:\DotNet\ConsoleApp3\virtual and override keyword\obj\Debug\net8.0\ref\virtual and override keyword.dll

@@ -1,0 +1,14 @@
+D:\DotNet\Compare\bin\Debug\net8.0\Compare.exe
+D:\DotNet\Compare\bin\Debug\net8.0\Compare.deps.json
+D:\DotNet\Compare\bin\Debug\net8.0\Compare.runtimeconfig.json
+D:\DotNet\Compare\bin\Debug\net8.0\Compare.dll
+D:\DotNet\Compare\bin\Debug\net8.0\Compare.pdb
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.AssemblyInfoInputs.cache
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.AssemblyInfo.cs
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.csproj.CoreCompileInputs.cache
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.dll
+D:\DotNet\Compare\obj\Debug\net8.0\refint\Compare.dll
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.pdb
+D:\DotNet\Compare\obj\Debug\net8.0\Compare.genruntimeconfig.cache
+D:\DotNet\Compare\obj\Debug\net8.0\ref\Compare.dll

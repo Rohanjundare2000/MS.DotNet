@@ -1,0 +1,4 @@
+D:\DotNet\ConsoleApp3\COnstructorNObjectInitialization\obj\Debug\net8.0\COnstructorNObjectInitialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ConsoleApp3\COnstructorNObjectInitialization\obj\Debug\net8.0\COnstructorNObjectInitialization.AssemblyInfoInputs.cache
+D:\DotNet\ConsoleApp3\COnstructorNObjectInitialization\obj\Debug\net8.0\COnstructorNObjectInitialization.AssemblyInfo.cs
+D:\DotNet\ConsoleApp3\COnstructorNObjectInitialization\obj\Debug\net8.0\COnstructorNObjectInitialization.csproj.CoreCompileInputs.cache

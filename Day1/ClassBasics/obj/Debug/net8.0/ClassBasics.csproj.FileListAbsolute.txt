@@ -1,0 +1,14 @@
+D:\DotNet\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.exe
+D:\DotNet\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.deps.json
+D:\DotNet\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.runtimeconfig.json
+D:\DotNet\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.dll
+D:\DotNet\Day1\ClassBasics\bin\Debug\net8.0\ClassBasics.pdb
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.AssemblyInfoInputs.cache
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.AssemblyInfo.cs
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.csproj.CoreCompileInputs.cache
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.dll
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\refint\ClassBasics.dll
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.pdb
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ClassBasics.genruntimeconfig.cache
+D:\DotNet\Day1\ClassBasics\obj\Debug\net8.0\ref\ClassBasics.dll

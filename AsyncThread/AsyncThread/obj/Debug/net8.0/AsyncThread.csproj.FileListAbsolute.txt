@@ -1,0 +1,14 @@
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.AssemblyInfoInputs.cache
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.AssemblyInfo.cs
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.csproj.CoreCompileInputs.cache
+D:\DotNet\AsyncThread\AsyncThread\bin\Debug\net8.0\AsyncThread.exe
+D:\DotNet\AsyncThread\AsyncThread\bin\Debug\net8.0\AsyncThread.deps.json
+D:\DotNet\AsyncThread\AsyncThread\bin\Debug\net8.0\AsyncThread.runtimeconfig.json
+D:\DotNet\AsyncThread\AsyncThread\bin\Debug\net8.0\AsyncThread.dll
+D:\DotNet\AsyncThread\AsyncThread\bin\Debug\net8.0\AsyncThread.pdb
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.dll
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\refint\AsyncThread.dll
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.pdb
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\AsyncThread.genruntimeconfig.cache
+D:\DotNet\AsyncThread\AsyncThread\obj\Debug\net8.0\ref\AsyncThread.dll

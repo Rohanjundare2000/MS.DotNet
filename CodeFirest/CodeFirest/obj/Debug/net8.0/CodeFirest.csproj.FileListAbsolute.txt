@@ -1,0 +1,8 @@
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.csproj.AssemblyReference.cache
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.AssemblyInfoInputs.cache
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.AssemblyInfo.cs
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.csproj.CoreCompileInputs.cache
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.RazorAssemblyInfo.cache
+D:\DotNet\CodeFirest\CodeFirest\obj\Debug\net8.0\CodeFirest.RazorAssemblyInfo.cs

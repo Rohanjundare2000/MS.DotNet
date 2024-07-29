@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ImpliciteVariable/1.0.0": {
+        "runtime": {
+          "ImpliciteVariable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImpliciteVariable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

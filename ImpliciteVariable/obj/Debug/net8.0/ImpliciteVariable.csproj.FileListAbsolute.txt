@@ -1,0 +1,14 @@
+D:\DotNet\ImpliciteVariable\bin\Debug\net8.0\ImpliciteVariable.exe
+D:\DotNet\ImpliciteVariable\bin\Debug\net8.0\ImpliciteVariable.deps.json
+D:\DotNet\ImpliciteVariable\bin\Debug\net8.0\ImpliciteVariable.runtimeconfig.json
+D:\DotNet\ImpliciteVariable\bin\Debug\net8.0\ImpliciteVariable.dll
+D:\DotNet\ImpliciteVariable\bin\Debug\net8.0\ImpliciteVariable.pdb
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.AssemblyInfoInputs.cache
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.AssemblyInfo.cs
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.csproj.CoreCompileInputs.cache
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.dll
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\refint\ImpliciteVariable.dll
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.pdb
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ImpliciteVariable.genruntimeconfig.cache
+D:\DotNet\ImpliciteVariable\obj\Debug\net8.0\ref\ImpliciteVariable.dll

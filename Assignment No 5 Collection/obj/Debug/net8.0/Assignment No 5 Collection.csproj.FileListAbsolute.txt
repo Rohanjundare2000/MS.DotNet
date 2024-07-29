@@ -1,0 +1,14 @@
+D:\DotNet\Assignment No 5 Collection\bin\Debug\net8.0\Assignment No 5 Collection.exe
+D:\DotNet\Assignment No 5 Collection\bin\Debug\net8.0\Assignment No 5 Collection.deps.json
+D:\DotNet\Assignment No 5 Collection\bin\Debug\net8.0\Assignment No 5 Collection.runtimeconfig.json
+D:\DotNet\Assignment No 5 Collection\bin\Debug\net8.0\Assignment No 5 Collection.dll
+D:\DotNet\Assignment No 5 Collection\bin\Debug\net8.0\Assignment No 5 Collection.pdb
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.AssemblyInfoInputs.cache
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.AssemblyInfo.cs
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.csproj.CoreCompileInputs.cache
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.dll
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\refint\Assignment No 5 Collection.dll
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.pdb
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\Assignment No 5 Collection.genruntimeconfig.cache
+D:\DotNet\Assignment No 5 Collection\obj\Debug\net8.0\ref\Assignment No 5 Collection.dll
